@@ -1,7 +1,6 @@
-# CodeAlpha_LanguageTranslationTool
-A language translation tool using Streamlit and Googletrans.
 # 🌍 CodeAlpha_LanguageTranslationTool
 
+A language translation tool using Streamlit and Googletrans.
 This project is part of the CodeAlpha AI Internship.
 
 ## 📌 Description
